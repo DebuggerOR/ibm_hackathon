@@ -11,5 +11,8 @@ This is a difficult regression task, where the aim is to predict the burned area
 ## Pacific and Atlantic Hurricanes
 https://www.kaggle.com/noaa/hurricane-database/version/1?.
 
+## Tornado
+https://www.kaggle.com/jtennis/spctornado.
+
 ## Tsunami
 https://data.world/dhs/historical-tsunami-event.
