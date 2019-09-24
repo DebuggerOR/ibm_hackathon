@@ -16,3 +16,9 @@ https://www.kaggle.com/jtennis/spctornado.
 
 ## Tsunami
 https://data.world/dhs/historical-tsunami-event.
+
+## Earthquakes
+https://www.kaggle.com/usgs/earthquake-database/.
+
+## Different Datasets
+https://github.com/plotly/datasets.
