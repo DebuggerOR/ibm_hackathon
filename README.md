@@ -16,6 +16,9 @@ https://www.kaggle.com/jtennis/spctornado.
 
 ## Tsunami
 https://data.world/dhs/historical-tsunami-event.
+Tornado number, year, month, day, date, time, time zone, state (like PR=Puerto Rico)
+state FIPS, state number (number of this tornado in this state in this year), ~wind speed
+etc..
 
 ## Earthquakes
 https://www.kaggle.com/usgs/earthquake-database/.
